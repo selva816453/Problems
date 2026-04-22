@@ -1,4 +1,4 @@
-// You are given an integer array nums.
+ // You are given an integer array nums.
 
 // A mirror pair is a pair of indices (i, j) such that:
 
